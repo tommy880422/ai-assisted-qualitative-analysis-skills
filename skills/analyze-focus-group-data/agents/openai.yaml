@@ -1,0 +1,4 @@
+interface:
+  display_name: "分析焦點團體資料"
+  short_description: "保留團體互動脈絡，完成組內分析、跨組比較、品質檢查與報告"
+  default_prompt: "使用 $analyze-focus-group-data 幫我分析這批焦點團體資料。"

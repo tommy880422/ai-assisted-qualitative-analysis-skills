@@ -1,0 +1,4 @@
+interface:
+  display_name: "進行質性內容分析"
+  short_description: "建立類別系統，執行結構型、評價型或類型建構型質性內容分析"
+  default_prompt: "使用 $do-qualitative-content-analysis 幫我規劃並執行質性內容分析。"

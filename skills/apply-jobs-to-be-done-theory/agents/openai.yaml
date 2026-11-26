@@ -1,0 +1,4 @@
+interface:
+  display_name: "用途理論（JTBD）研究"
+  short_description: "Design and audit rigorous JTBD thesis research"
+  default_prompt: "Use $apply-jobs-to-be-done-theory to design an auditable JTBD study and produce the appropriate research instruments."

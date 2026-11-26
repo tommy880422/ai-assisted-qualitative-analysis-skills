@@ -1,0 +1,4 @@
+interface:
+  display_name: "使用 NVivo 分析質性資料"
+  short_description: "把既定分析方法轉化為可稽核的 NVivo 專案、查詢、團隊與匯出流程"
+  default_prompt: "使用 $use-nvivo-for-qualitative-analysis 幫我把分析計畫轉成 NVivo 工作流程。"
