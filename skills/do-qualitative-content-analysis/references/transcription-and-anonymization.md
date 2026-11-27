@@ -1,6 +1,6 @@
 # Transcription and Anonymization
 
-Recorded material is not data until it has been transcribed under a declared rule set. Decide the rules before transcription starts, and disclose them in the report.
+The recording is the original data; a transcript is a selective representation of it, and analysis already begins during transcription (p. 166). When transcripts are the material to be coded, declare the transcription rules before transcribing and apply the same rules to every recording. Decide the rules before transcription starts, and disclose them in the report.
 
 ## Procedure From Recording to Software
 

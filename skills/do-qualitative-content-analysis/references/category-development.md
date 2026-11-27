@@ -17,7 +17,7 @@ The coding process is not the same for every type. Naming the type sharpens anal
 | Formal | Information about the unit itself: interview length, date, word count | Metadata, not analysis |
 | Ordering | Not used to code material at all; structures the category system the way headings structure a chapter | Never report an ordering category as a finding |
 
-A category system built only from thematic categories yields a topic index. Movement from thematic to analytical categories is where the analysis happens.
+Coding into thematic categories is not yet the analysis: the book warns that the process must not end with coding (p. 122). The analysis happens when the coded material is examined by category, compared across cases and groups, and checked for relationships and counter-examples. Structuring QCA can do this with thematic categories alone; whether to develop analytical categories depends on the research question, so do not invent abstract categories just to look analytical.
 
 ## Structural Position
 

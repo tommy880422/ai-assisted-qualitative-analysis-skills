@@ -9,7 +9,7 @@ Conduct qualitative content analysis as a systematic, question-led, category-bas
 
 ## Workflow
 
-1. **Define the study logic.** State research questions, data types, case unit, coding unit, context unit, prior knowledge, and intended analytic product.
+1. **Define the study logic.** State research questions, data types, case unit, the rule for the scope of coded segments and how much context each must carry (QCA does not pre-segment the text into fixed coding units; pp. 45–46, 67), prior knowledge, and intended analytic product.
 2. **Choose the QCA type.** Read [method-selector.md](references/method-selector.md): structuring, evaluative, or type-building.
 3. **Prepare the data.** Read [transcription-and-anonymization.md](references/transcription-and-anonymization.md) whenever the corpus comes from recordings. Fix the transcription rules, level of accuracy, and anonymization before coding, because they bound what the analysis can later claim.
 4. **Begin with the material.** Read a varied subset, write memos, mark notable passages, and prepare initial case summaries before full coding.
