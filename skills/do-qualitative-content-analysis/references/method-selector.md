@@ -32,7 +32,7 @@ Choose when the goal is to assess cases on clearly defined evaluative dimensions
 Typical products:
 
 - thematic and evaluative categories;
-- ordered or nominal evaluative characteristics;
+- ordinal or dichotomous evaluative characteristics, including “unable to classify” (pp. 36, 127);
 - case profiles;
 - quote matrices and cross-tabs;
 - comparison of evaluation with context or attributes.
@@ -59,4 +59,4 @@ Typical products:
 | How should cases be assessed along explicit dimensions? | Evaluative QCA |
 | What recurring configurations form meaningful case types? | Type-building QCA |
 
-A project may sequence types, but state which method answers which question.
+A project may sequence types — type-building usually builds on a structuring or evaluative analysis (p. 80) — but state which method answers which question. The decision table is this skill's summary, not a table from the book.

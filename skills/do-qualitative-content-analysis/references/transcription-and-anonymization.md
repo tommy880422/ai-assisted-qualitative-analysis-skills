@@ -35,7 +35,12 @@ Accuracy is an analytic decision, not only a budget decision. Even simple transc
 | 13 | Mark unintelligible words as `(unclear)`; bracket suspected wording with a question mark, e.g. `(kobold?)` |
 | 14 | Insert timestamps at the end of each contribution, and within long paragraphs at incomprehensible passages |
 
-Automatic transcription reliably delivers only rules 1 and 2, partially delivers 3, 4, 13, and 14, and does not deliver the emphasis, volume, backchannel, filler, disruption, vocalization, and non-verbal rules. Anything the tool cannot produce must be added by a human listener or dropped from the analysis by explicit decision.
+According to Figure 8.1 (p. 163), automatic transcription usually delivers only rule 2; it partially delivers rules 1 (short interjections are often missed), 3, 4, 13, and 14; and it does not deliver the pause, emphasis, volume, backchannel, filler, disruption, vocalization, and non-verbal rules. Anything the tool cannot produce must be added by a human listener or dropped from the analysis by explicit decision (the last clause is this skill's).
+
+Two further points from the book (p. 165):
+
+- Automatically created transcripts always need to be checked and corrected manually; expect about 3–6 hours for a one-hour interview instead of 5–10 for manual transcription.
+- Mind data protection. Recordings usually have to be uploaded to the provider's servers, so check the server location and whether a contract for commissioned data processing can be concluded before choosing a service.
 
 ## Anonymization
 
